@@ -1,0 +1,1 @@
+# Analisis-Pola-Penyebaran-COVID-19-di-Indonesia-Menggunakan-Moran-s-I-dan-Spatial-Clustering
